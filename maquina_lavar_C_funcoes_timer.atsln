@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "maquina_lavar_C_funcoes_timer", "maquina_lavar_C_funcoes_timer.cproj", "{D0F2D79C-5D8B-42C6-829E-5970BEBD8F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F2D79C-5D8B-42C6-829E-5970BEBD8F5F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D0F2D79C-5D8B-42C6-829E-5970BEBD8F5F}.Debug|AVR.Build.0 = Debug|AVR
+		{D0F2D79C-5D8B-42C6-829E-5970BEBD8F5F}.Release|AVR.ActiveCfg = Release|AVR
+		{D0F2D79C-5D8B-42C6-829E-5970BEBD8F5F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
